@@ -1,3 +1,10 @@
+# [5.6.0](https://github.com/IBM/node-sdk-core/compare/v5.5.0...v5.6.0) (2026-07-16)
+
+
+### Features
+
+* **auth:** add new IAM profile selector to VPC Instance Auth  ([#364](https://github.com/IBM/node-sdk-core/issues/364)) ([6f6ae24](https://github.com/IBM/node-sdk-core/commit/6f6ae24d0e434b63e987430dd9a91a25ffa9e740))
+
 # [5.5.0](https://github.com/IBM/node-sdk-core/compare/v5.4.22...v5.5.0) (2026-06-19)
 
 
